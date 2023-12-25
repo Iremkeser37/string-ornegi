@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\obj\Debug\string örnrkleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\obj\Debug\string örnrkleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\obj\Debug\string_örnrkleri.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\obj\Debug\string_örnrkleri.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\obj\Debug\string örnrkleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\obj\Debug\string örnrkleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\bin\Debug\string örnrkleri.exe.config
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\bin\Debug\string örnrkleri.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\bin\Debug\string örnrkleri.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\obj\Debug\string örnrkleri.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\string örnrkleri\string örnrkleri\obj\Debug\string örnrkleri.pdb
